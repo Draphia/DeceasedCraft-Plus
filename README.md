@@ -4,5 +4,4 @@
 | File | Link |
 |---|---|
 | Mods |  |
-| Config |  |
 | ResourcePack |  |
